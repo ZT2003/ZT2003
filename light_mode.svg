@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
+<style>
+.keyColor {fill: #953800;}
+.valueColor {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="970px" height="530px" fill="#f6f8fa" rx="15"/>
+
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30">                    _                     _      </tspan>
+<tspan x="15" y="50">    ___   __ _     (_)    _ _     __ _   | |__   </tspan>
+<tspan x="15" y="70">   |_ /  / _` |    | |   | ' \   / _` |  | '_ \  </tspan>
+<tspan x="15" y="90">  _/__|  \__,_|   _|_|_  |_||_|  \__,_|  |_.__/  </tspan>
+<tspan x="15" y="110">_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""| </tspan>
+<tspan x="15" y="130">"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' </tspan>
+</text>
+
+<text x="370" y="30" fill="#24292f">
+<tspan x="15" y="150">zainab@tarada</tspan>
+<tspan x="15" y="170">——————</tspan>
+<tspan x="15" y="190" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, iOS</tspan>
+<tspan x="15" y="210" class="keyColor">Uptime</tspan>: <tspan class="valueColor">21 years</tspan>
+<tspan x="15" y="230" class="keyColor">Host</tspan>: <tspan class="valueColor">University of Bahrain</tspan><tspan class="commentColor"> #UOB</tspan>
+<tspan x="15" y="250" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science - Cloud Computing</tspan><tspan class="commentColor"> #ITCC</tspan>
+<tspan x="15" y="270" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Python, JavaScript, TypeScript, PHP</tspan>
+<tspan x="15" y="290" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, LaTeX, SQL</tspan>
+<tspan x="15" y="310" class="keyColor">Languages</tspan>.<tspan class="keyColor">Libararies</tspan>: <tspan class="valueColor">Ionic, Angular, React, Bootstrap</tspan>
+<tspan x="15" y="330" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Arabic</tspan>
+<tspan x="15" y="350" class="keyColor">Apps</tspan>: <tspan class="valueColor">IntelliJ IDEA, VSCode, VirtualBox, Figma, MS Office</tspan>
+<tspan x="15" y="370" class="keyColor">Contact</tspan>:
+<tspan x="15" y="390">——————</tspan>
+<tspan x="15" y="410" class="keyColor">Email</tspan>: <tspan class="valueColor">zainabtarada3@gmail.com</tspan>
+<tspan x="15" y="430" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Zainab Tarada</tspan>
+</text>
+
+</svg>
